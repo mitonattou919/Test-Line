@@ -1,4 +1,4 @@
-Flask==1.0.2
+Flask==2.3.2
 line-bot-sdk
 google-cloud-translate==2.0.1
 google-cloud-vision==1.0.0
